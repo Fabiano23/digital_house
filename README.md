@@ -1,2 +1,2 @@
 # digital_house
- exercícios curso ciência de dados digital house
+ Exercícios e materiais do curso de ciência de dados da digital house Brasil.
